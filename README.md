@@ -1,2 +1,5 @@
-# Python_Start
-# 1- Print(), Identifier(), DataType(), TypeCasting
+# Python
+# Data Analyst
+# Data Scientist
+# Generative AI
+
